@@ -7,3 +7,6 @@ In this challenge  I created a ERC20 token that is to be minted using a Crowdsal
 Evaluation Evidence: 
 
 https://github.com/DLThrasher/Challenge_21-/commit/adebc1e2f846d0f300506281f50c35fd9fe9b307#diff-5dd74c5f8bb174e2f13ec31d37cc3064776173ecb3143c154ef95b67dcc05d6d
+
+
+https://github.com/DLThrasher/Challenge_21-/commit/dbc02219328287f243457f1d07cce553e9a53e1e#diff-04c6b2c5290f284172652eaca3dce97b8b4d90ce2a6a745a891e746383125ff1
