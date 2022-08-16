@@ -5,4 +5,5 @@ In this challenge  I created a ERC20 token that is to be minted using a Crowdsal
 
 
 Evaluation Evidence: 
-Compiled Crowdsale contract.png
+
+
